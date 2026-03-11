@@ -1,0 +1,54 @@
+{
+  "configVersion": "v3",
+  "app": {
+    "appId": 1234567,
+    "appName": "My cool Amazfit app",
+    "appType": "app",
+    "version": {
+      "code": 1,
+      "name": "1.0.1"
+    },
+    "icon": "icon.png",
+    "vender": "zepp",
+    "description": "empty application"
+  },
+  "permissions": [
+    "data:os.device.info",
+    "device:os.local_storage",
+    "device:internet",
+    "device:os.vibrate"
+  ],
+  "runtime": {
+    "apiVersion": {
+      "compatible": "3.0",
+      "target": "3.0",
+      "minVersion": "3.0"
+    }
+  },
+  "targets": {
+    "default": {
+      "module": {
+        "page": {
+          "window": {
+            "navigation": {
+              "style": "custom"
+            }
+          },
+          "pages": [
+            "page/round/home/index.page",
+            "page/kpay/index.page",
+            "page/round/home/game.page",
+            "page/round/home/menu.page",
+            "page/round/home/help.page"
+          ]
+        },
+        "app-side": { "path": "app-side/index.js" }
+      },
+      "platforms": [
+        { "st": "r", "dw": 480 },
+        { "st": "s", "dw": 390 }
+      ]
+    }
+  },
+  "defaultLanguage": "en-US"
+}
