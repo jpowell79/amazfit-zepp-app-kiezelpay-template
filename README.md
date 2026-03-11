@@ -24,3 +24,11 @@ Whether you are a complete beginner to Zepp OS or just want to save time on your
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/jpowell79/amazfit-zepp-app-kiezelpay-template.git](https://github.com/jpowell79/amazfit-zepp-app-kiezelpay-template.git)
+
+
+
+## ☕ Support This Project
+
+If this template saved you time, headaches, or helped you launch your first Zepp OS app, consider buying me a coffee! 
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/waxlyrical)
