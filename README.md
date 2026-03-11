@@ -24,7 +24,13 @@ Whether you are a complete beginner to Zepp OS or just want to save time on your
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/jpowell79/amazfit-zepp-app-kiezelpay-template.git](https://github.com/jpowell79/amazfit-zepp-app-kiezelpay-template.git)
+   
 
+## 📖 Full Step-by-Step Guide
+
+Need more help setting up your environment or understanding how the monetization works? I wrote a guide on Medium explaining exactly how to create Amazfit apps and integrate KiezelPay from scratch. 
+
+👉 **[Read the full tutorial on Medium here!](https://waxlyrical.medium.com/creating-amazfit-apps-for-the-zepp-app-store-with-kiezelpay-d4eebf4a08ce)**
 
 
 ## ☕ Support This Project
